@@ -1,4 +1,4 @@
-# trip_english
+# trip english
 
 Trip English is making fast english sentence using AI for trip
 This app is only for korean language.
