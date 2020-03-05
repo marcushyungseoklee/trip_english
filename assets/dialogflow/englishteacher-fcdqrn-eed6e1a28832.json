@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "englishteacher-fcdqrn",
+  "private_key_id": "eed6e1a28832c0850a29584cb57adb4ed416a15e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6vw6PNdeQ9GpK\n9PHNH4Z4iT5q01abxf4pg2HgC6tt9SKpl8+ZI34w54CYKcjEur/R0JGi0Bdw11qt\nyqi3ZoXnr5ke1MNrsjRHdeN3S0HOElMI/eWkixIfabcTtNg5wXip6Afo4t9iptX1\n54U5ZZw1GnsVvBQwcyY88fo3dGXgIzqB2/s1owNbMRTW3ABt2XEfAgwTGaejGPzv\ncXagZYF5nv/NpHRhVlOkdCHs43H8WLzcyvMVQpBliCe+LUuqjTZyJ7PN1h6Z4epG\nhwl5vlJsOuBBnkUsQTJuMs8t8nLG2Yj5e2bjc8sQjDWImfs4hzAJVQSR2U+Ki2L/\nJ/Q9l5rvAgMBAAECggEAFhG4JcKGLDJGUX9rCAO+v4Xwo21AYf5fEAbfzTtz0fXT\nV9mCBiYEpsDlGJZvjJhJTQFqBKS08Hfy1nEJyUrLblr5LISWZ6bSuNM8w39YUoMl\n3v0qY2ywAphas3B+0SyFFwc90A7nuV/gD0SCIQtaD4iGnUXx2Nvy2+b43A7cb0Vm\nn0/txsupe/U87ytxeCKHBIPJuJqewKS/agxLIH26hNpx1+b+X/oIv3kNUc/jFovr\nNIoTVxLqm9WWZybjNKyzfQGwtAjA9ogd8frYta6hwgZVv8YW7LHXXcye7v2Vy1rk\nWsKmrpYtZ6WxM2jB0gyCddLWyCp0CciF0aiDN6b1oQKBgQDwL8Ss8bHdMYGK7yGJ\nCokcpcsTxX8uPmAkYiCiGDhSZMACz//LM4ZqIInqXsC+DCwle3/JeDPC7foTkuZH\nDzd0WhIIwgDJSPszXVU3SyjoqFkUu1MVzWIg2TsXqlWvPMdv63gnosEUGsRcioQ9\nmXeCvPfZxMW2GIRbFMj2d/m0MQKBgQDHCpPypmTkurNxTMK930PMMTKIb9XtAZPs\nUyauXLc/ls5OY+qX06lZBXVhJCA6J4no6Hk1ziq+TbxYkMZ+bHfUvvdeG0mMvMkV\nLTFV4g2lxM3v8i+YY5KdHOreKqXkyxB841cfWSEdKuUBg0rRMgoj4i+ZbmdAUzxs\n9E8pqWIZHwKBgQCWeibq/wWjAdgaFhVZiTs7sndXbL1wWG3dfYjaZPgsTqipWmz0\nftRwevBM4I46wt+JoCUAMQmkz3mEd91DmbnxcFiqGflqIgoXNRslaDY6BPbCcVXt\na95VnCNUgUfrYNXGPazqkCINGXP6UmHlQdfJFeDmE0yW+Cc79Pqux52ukQKBgE+u\nUGQHcMSQaV2mGR/hzUZlO5GbE8z5oLou34FV5JY0TQrcvQFi3pygrsjgqXYedfsj\ndcKwcjQU8p2R96SMz7v/Zw/pZJxOx0EPAn0bLdN64eZ40czzr7Ht7aha8maRVFxq\ntmn6SGNg1KSyZrUwjxamad/Gbtc1ey8y7q4C/R6JAoGAEXopt7zQuchboIDutUn+\nBJQbUlrk3l8bWHyROpj164SZ614TVs9RvQhCeJ6i4mdkkUzAR5O8UY2ipu5pkJ91\nwZTFUT7ok/zYzDL/ZxTmJrQtsbS0QAgfWbaM/3lBBjRN8T79MtpVhUSgjvJtI+gK\nrslnVyyjjOVjtdJPqRpjOHY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-vujnkv@englishteacher-fcdqrn.iam.gserviceaccount.com",
+  "client_id": "108758843396187671411",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-vujnkv%40englishteacher-fcdqrn.iam.gserviceaccount.com"
+}
